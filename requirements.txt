@@ -19,4 +19,4 @@ pyfiglet == 0.8.post1
 # D:\coding\py\scriptjacker\payloads\builtins\auxil\payload.py: 1
 # D:\coding\py\scriptjacker\test\payload.py: 194
 requests == 2.24.0
-urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
